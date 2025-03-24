@@ -3,6 +3,7 @@ Krpano script for assembling panorama from sliced pieces of multiresolutions
 
 ## Install
 For the script to work, the path to the folder with krpano installed must be specified in the operating system environment variable.
+Or place the script file in the folder with krpano installed, next to krpanotools.exe.
 
 The script works in two modes: automatic and manual.  
 ## Automatic mode
