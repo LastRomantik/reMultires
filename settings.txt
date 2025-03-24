@@ -1,0 +1,2 @@
+panos/extpaneles.tiles/%s/l%l/%0v/l%l_%s_%0v_%0h.jpg
+512,640,1280,2560,4864
